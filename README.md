@@ -9,6 +9,5 @@ This Power BI report provides an in-depth analysis of Virat Kohli's cricket perf
 - **Match-wise Breakdown**: Insights based on different formats (ODI, Test, T20).
 - **Comparison Analysis**: Compare performance against different teams and conditions.
 - **Trends & Insights**: Discover patterns in performance over time
-- 
-
+  
 
